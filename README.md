@@ -1,2 +1,2 @@
-# ZimaBoard-Resources
-ZimaBoard's BIOS, pre-installed systems, and other resources.
+# ZimaBoard-BIOS
+ZimaBoard's BIOS and Issues Tracker.
